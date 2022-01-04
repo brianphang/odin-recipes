@@ -1,7 +1,7 @@
 # odin-recipes
 #This is my first HTML page
 Things I learned:
-<!> = basic html page info can be immediately included
+! = basic html page info can be immediately included
 <head>: header
 <body>: body
 <strong> = <b>
